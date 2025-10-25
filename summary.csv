@@ -1,0 +1,11 @@
+graphId,algorithm,vertices,execTimeMs,operationCount,totalCost
+1,Kruskal,25,0,280,7300.72100
+1,Prim,25,0,131,7234.82800
+2,Kruskal,10,0,57,1888.00700
+2,Prim,10,0,43,1431.65700
+3,Kruskal,12,0,102,1803.53400
+3,Prim,12,0,67,1593.86600
+4,Kruskal,8,0,44,1858.50700
+4,Prim,8,0,33,1858.50700
+5,Kruskal,28,0,326,6455.53600
+5,Prim,28,0,146,5981.16500
