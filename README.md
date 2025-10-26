@@ -49,3 +49,8 @@ Not sure if perfect but hope it pass teacher pls be nice :D
 I tested it on 5 small, 10 medium, 10 large and 3 extra large graphs.  
 Mostly Prim works faster on big graphs, but sometimes Kruskal is faster on small ones.  
 Not big diffrence, but depend on graph density, lol.
+
+## Author 
+Zhuparbay Erkebualn
+Se-2423
+
